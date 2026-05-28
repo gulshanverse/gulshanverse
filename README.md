@@ -67,11 +67,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
+
 
 ---
 
@@ -99,9 +100,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
+
 
 ---
 
