@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Gulshan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20IT%20Student%20|%20DSA%20Learner%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Gulshan%20Kumar&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=BTech%20IT%20Student%20|%20DSA%20Learner%20|%20AI%20Explorer&descAlignY=60&descAlign=50"/>
 
 </div>
 
@@ -8,7 +8,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hey+There+👋;I+am+Gulshan+Kumar;BTech+IT+Student;Learning+DSA+in+C%2B%2B;Exploring+Artificial+Intelligence;Building+Projects+and+Consistency;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hey+There+👋;I+am+Gulshan+Kumar;BTech+IT+Student;Learning+DSA+in+C%2B%2B;Exploring+Artificial+Intelligence;Building+Projects+Everyday;Future+Software+Engineer+🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>
+🚀 Passionate about Coding • AI • Problem Solving • Technology
+</h3>
+
+<img src="https://komarev.com/ghpvc/?username=gulshanverse&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -16,15 +28,16 @@
 
 # 💫 About Me
 
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 * 🎓 BTech IT Student
-* 💻 Learning **Data Structures & Algorithms**
-* 🤖 Exploring **AI & Machine Learning**
+* 💻 Learning Data Structures & Algorithms
+* 🤖 Exploring Artificial Intelligence & Machine Learning
 * 🔥 Interested in technology and innovation
-* 🌱 Improving problem solving every day
+* 🌱 Improving problem-solving daily
 * ⚡ Goal: Become a strong software engineer
-* 🚀 Currently building coding consistency
+* 🚀 Building consistency and discipline
+* 📚 Currently focused on DSA + Development
 
 <br><br>
 
@@ -34,7 +47,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux,bash" />
+
+</div>
+
+---
+
+# ⚡ Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,tensorflow" />
 
 </div>
 
@@ -44,7 +67,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
@@ -76,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
@@ -86,7 +109,29 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulshanverse&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚙️ Development Breakdown
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshanverse&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulshanverse&theme=tokyonight"/>
 
 </div>
 
@@ -100,20 +145,18 @@ while(life)
     eat();
     sleep();
     code();
+    improve();
     repeat();
 }
 ```
 
 ---
 
-# ☕ Developer Mindset
+# 🧠 Random Dev Quote
 
 <div align="center">
 
-```text
-Start today.
-Continue till the best outcome.
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -131,11 +174,14 @@ Continue till the best outcome.
 
 ---
 
-# 👀 Profile Views
+# ☕ Developer Mindset
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gulshanverse&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+```text
+Start today.
+Continue till the best outcome.
+```
 
 </div>
 
@@ -143,6 +189,9 @@ Continue till the best outcome.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
 
 </div>
+
+
+
