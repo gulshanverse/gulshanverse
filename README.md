@@ -13,8 +13,15 @@
 ---
 
 <div align="center">
+<div align="center">
 
-<img height="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=C%2B%2B+Developer;Python+Programmer;AI+%26+ML+Explorer;Docker+Learner;NumPy+%7C+Pandas+%7C+TensorFlow;Future+Software+Engineer"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pytorch,tensorflow,docker,git,github,vscode,linux,bash"/>
+
+</div>
 
 </div>
 
