@@ -1,9 +1,3 @@
-# 🚀 Futuristic GitHub Profile Upgrade
-
-Replace/add these sections into your GitHub README to get a futuristic cyberpunk developer vibe with 3D visuals, neon aesthetics, animated widgets, and a unique coder identity.
-
----
-
 # 🌌 CYBERPUNK HEADER
 
 ```md
@@ -210,37 +204,8 @@ while(alive)
 </div>
 ```
 
----
 
-# 🛸 NEXT-LEVEL THINGS YOU CAN ADD LATER
 
-* LeetCode Stats
-* Spotify Now Playing
-* WakaTime Coding Analytics
-* 3D Contribution Calendar
-* AI Generated Avatar
-* Portfolio Website
-* Glassmorphism Design
-* Cyberpunk Neon Theme
-* Animated SVG Dividers
-* Custom Anime Banner
-* Terminal UI Theme
-* Hologram UI Effects
-
----
-
-# 💡 IMPORTANT
-
-Your profile becomes truly impressive when:
-
-* you push code daily
-* keep repositories clean
-* write good READMEs
-* build projects consistently
-* stay active
-
-The animations attract attention.
-The consistency keeps attention.
 
 
 
