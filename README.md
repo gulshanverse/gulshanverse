@@ -141,8 +141,8 @@ while(alive)
 <tr>
 <td align="center">
 
-<img src="./assets/achievements/pair-extraordinaire.png"
-     width="140"
+<img src="./pair-extraordinaire.png"
+     width="180"
      alt="Pair Extraordinaire"/>
 
 <br><br>
