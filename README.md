@@ -133,14 +133,31 @@ while(alive)
 
 ---
 
-# 🏆 ACHIEVEMENTS
-## 🏆 GitHub Achievements
+<h1 align="center">🏆 ACHIEVEMENTS</h1>
 
-<p align="center">
-<a href="https://github.com/gulshanverse?tab=achievements">
-  View My GitHub Achievements →
-</a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="./assets/achievements/pair-extraordinaire.png"
+     width="140"
+     alt="Pair Extraordinaire"/>
+
+<br><br>
+
+<b>Pair Extraordinaire</b>
+
+<br>
+
+Successfully co-authored commits with another developer.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 # 📈 CONTRIBUTION GRAPH
