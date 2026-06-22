@@ -135,6 +135,16 @@ while(alive)
 
 # 🏆 ACHIEVEMENTS
 
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=gulshanverse&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
