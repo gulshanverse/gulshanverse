@@ -135,11 +135,11 @@ while(alive)
 
 # 🏆 ACHIEVEMENTS
 
-<div align="center">
+## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
