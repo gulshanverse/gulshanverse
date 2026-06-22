@@ -230,7 +230,23 @@ Create the future.
 <div align="center">
 
 <a href="https://github.com/gulshanverse">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60" />
+</a>
+
+<a href="https://linkedin.com/in/gulshanverse">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>
+
+<a href="https://gulshanverse.vercel.app">
+  <img src="https://img.icons8.com/fluency/96/domain.png" height="60" />
+</a>
+
+<a href="https://leetcode.com/gulshanverse_lc">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="60" />
+</a>
+
+<a href="https://www.hackerrank.com/gulshanverse">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="60" />
 </a>
 
 </div>
