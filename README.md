@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Explorer%20%7C%20DSA%20Learner%20%7C%20Future%20Software%20Engineer&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Explorer%20|%20DSA%20Learner%20|%20Future%20Software%20Engineer&descAlignY=60&descAlign=50"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;WELCOME+TO+GULSHANVERSE;BUILDING+THE+FUTURE+WITH+CODE;AI+%2B+DSA+%2B+INNOVATION;CONSISTENCY+IS+POWER+⚡"/>
 
@@ -12,52 +12,31 @@
 
 ---
 
-<div align="center">
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=C%2B%2B+Developer;Python+Programmer;AI+%26+ML+Explorer;Docker+Learner;NumPy+%7C+Pandas+%7C+TensorFlow;Future+Software+Engineer"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pytorch,tensorflow,docker,git,github,vscode,linux,bash"/>
-
-</div>
-
-</div>
-
----
-
-# 👾 AI TERMINAL
+# 👨‍💻 ABOUT ME
 
 ```yaml
-class Developer:
+Name: Gulshan Kumar
 
-  name: "Gulshan Kumar"
+Role: B.Tech Information Technology Student
 
-  role: "BTech IT Student"
+Learning:
+  - Data Structures & Algorithms
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Engineering
 
-  interests:
-    - Artificial Intelligence
-    - Machine Learning
-    - DSA
-    - Software Engineering
-    - Future Technologies
+Languages:
+  - C++
+  - Python
+  - C
 
-  languages:
-    - C++
-    - Python
-    - C
+Currently Building:
+  - AI Projects
+  - Full Stack Applications
+  - Open Source Projects
 
-  current_focus:
-    - DSA
-    - AI/ML
-    - Development
-    - Open Source
-
-  mindset:
-    - Discipline
-    - Consistency
-    - Growth
+Goal:
+  Become a Software Engineer creating impactful AI-powered products.
 ```
 
 ---
@@ -66,27 +45,15 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pytorch,tensorflow,docker,git,github,vscode,linux,bash"/>
-
-</div>
-
----
-
-# 🧠 AI & DATA SCIENCE TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,docker,linux,bash,vscode"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A00FF?style=for-the-badge"/>
 
 </div>
 
@@ -94,30 +61,26 @@ class Developer:
 
 # 🚀 CURRENT MISSION
 
-<div align="center">
-
 ```cpp
 while(alive)
 {
-    learn();
-    code();
-    build();
-    innovate();
-    repeat();
+    Learn();
+    Build();
+    Code();
+    Improve();
+    Repeat();
 }
 ```
 
-</div>
-
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -127,44 +90,17 @@ while(alive)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<h1 align="center">🏆 ACHIEVEMENTS</h1>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img src="./pair-extraordinaire.png"
-     width="180"
-     alt="Pair Extraordinaire"/>
-
-<br><br>
-
-<b>Pair Extraordinaire</b>
-
-<br>
-
-Successfully co-authored commits with another developer.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
 # 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -174,54 +110,43 @@ Successfully co-authored commits with another developer.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-# ⚡ DEVELOPMENT METRICS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulshanverse&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 💻 LANGUAGE BREAKDOWN
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshanverse&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulshanverse&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 🧠 RANDOM DEV QUOTE
+# 🚀 FEATURED PROJECTS
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+| Project | Description |
+|----------|-------------|
+| 🚆 Rail Yatra Platform | AI-powered railway ticket prediction & travel assistant |
+| 🏥 Hospital Management System | Modern Full Stack HMS with secure authentication |
+| 🤖 AI/ML Projects | Machine Learning, Deep Learning & Computer Vision |
+| 🌐 Portfolio Website | Personal Portfolio built with Next.js |
 
 ---
 
-# 🌌 CYBERPUNK CODER VISION
-
-<div align="center">
+# 💻 CODING PHILOSOPHY
 
 ```text
-Start today.
-Build consistently.
-Master technology.
-Create the future.
+Dream.
+Learn.
+Build.
+Fail.
+Improve.
+Repeat.
 ```
-
-</div>
 
 ---
 
@@ -229,24 +154,24 @@ Create the future.
 
 <div align="center">
 
-<a href="https://leetcode.com/gulshanverse_lc">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="60" />
-</a>
-
 <a href="https://github.com/gulshanverse">
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
-</a>
-
-<a href="https://gulshanverse.vercel.app">
-  <img src="https://img.icons8.com/fluency/96/domain.png" height="60" />
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="https://linkedin.com/in/gulshanverse">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+</a>
+
+<a href="https://gulshanverse.vercel.app">
+<img src="https://img.icons8.com/fluency/96/domain.png" height="60"/>
+</a>
+
+<a href="https://leetcode.com/gulshanverse_lc">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="60"/>
 </a>
 
 <a href="https://www.hackerrank.com/gulshanverse">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="60" />
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="60"/>
 </a>
 
 </div>
@@ -255,10 +180,13 @@ Create the future.
 
 <div align="center">
 
+## ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F7FF,40:302b63,70:0f0c29,100:000000"/>
 
 </div>
-
 
 
 
