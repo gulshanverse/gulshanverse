@@ -280,7 +280,7 @@ https://gulshanverse.vercel.app
 
 <a href="https://leetcode.com/gulshanverse_lc">
 
-<img src="https://leetcard.jacoblin.cool/gulshanverse_lc?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/gulshanverse?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
 </a>
 
