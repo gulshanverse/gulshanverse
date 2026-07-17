@@ -15,52 +15,59 @@
 </div>
 
 ---
-## 👨‍💻 About Me
+## <img src="https://img.icons8.com/fluency/30/user-male-circle.png"/> About Me
 
 <table>
 <tr>
 
-<td width="42%">
+<td width="60%" valign="top">
 
-```cpp
-class Gulshan {
+### 👋 Hi, I'm **Gulshan Kumar**
 
-public:
+🎓 **B.Tech Information Technology** student passionate about creating software that solves **real-world problems**.
 
-    string education = "B.Tech IT";
+Currently building **🚆 Rail Yatra**, an AI-powered railway platform that combines **Artificial Intelligence**, **Machine Learning**, and **Full Stack Engineering** to make train travel smarter and more accessible.
 
-    string mission =
-        "Build software used by millions.";
+My interests extend beyond writing code—I enjoy designing **scalable backend systems**, exploring **system architecture**, and continuously improving my problem-solving skills through **Data Structures & Algorithms**.
 
-    string currentProject =
-        "Rail Yatra Platform";
+I believe great software is built by combining **curiosity**, **consistency**, and **continuous learning**.
 
-    string dream =
-        "Software Engineer";
+<br>
 
-};
-```
+### 🔥 Highlights
+
+- 🚆 Building **Rail Yatra Platform**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- ⚡ Developing **Modern Full Stack Applications**
+- 🧠 Learning **System Design & Scalable Backend**
+- 💻 Solving **Data Structures & Algorithms**
+- 🌍 Open Source Enthusiast
+- 🎯 Aspiring Software Engineer
 
 </td>
 
-<td width="58%">
+<td width="40%" align="center">
 
-Instead of collecting projects, I enjoy building products that solve
-real problems.
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile.png" width="260" style="border-radius:20px;" />
 
-My current focus is developing **Rail Yatra**, an AI-powered railway
-assistant designed to make train travel smarter through prediction,
-automation, and intelligent recommendations.
+<br><br>
 
-Beyond development, I'm strengthening my foundation in **Data Structures & Algorithms**, **Backend Engineering**, and **System Design** to build scalable software and prepare for software engineering roles.
+<img src="https://img.shields.io/badge/AI-Explorer-00C2FF?style=for-the-badge"/>
 
-I believe the best way to learn is to build, ship, improve, and repeat.
+<br>
+
+<img src="https://img.shields.io/badge/Backend-Learner-4CAF50?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-FF9800?style=for-the-badge"/>
 
 </td>
 
 </tr>
 </table>
 
+---
 
 ## ⚡ Current Status
 
