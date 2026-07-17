@@ -128,8 +128,8 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <div align="center">
 
-<a href="https://leetcode.com/u/gulshanverse_lc/">
-<img src="https://leetcard.jacoblin.cool/gulshanverse_lc?theme=dark&font=JetBrains+Mono&ext=heatmap" width="72%"/>
+<a href="https://leetcode.com/u/gulshanverse/">
+<img src="https://leetcard.jacoblin.cool/gulshanverse?theme=dark&font=JetBrains+Mono&ext=heatmap" width="72%"/>
 </a>
 
 <br><br>
@@ -148,15 +148,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://gulshanverse.vercel.app/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio"/>
-</a>
 
 </div>
 
