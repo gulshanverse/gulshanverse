@@ -122,7 +122,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <hr>
 
 <h1 align="center">
-💻 Coding Profiles
+💻 Coding Profile
 </h2>
 
 <div align="center">
@@ -132,21 +132,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </a>
 
 <br><br>
-
-<a href="https://leetcode.com/u/gulshanverse/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/gulshnaverse" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" alt="HackerRank"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/gulshanverse" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
