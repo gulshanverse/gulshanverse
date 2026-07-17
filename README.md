@@ -160,10 +160,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy-2tf5q9wc2-gulshanverse.vercel.app/?username=gulshanverse&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2"
-alt="GitHub Trophies"
-/>
+<img src="https://github-profile-trophy-2tf5q9wc2-gulshanverse.vercel.app/?username=gulshanverse&theme=algolia&column=3&row=3&margin-w=20&margin-h=20&no-frame=true&no-bg=true" width="95%" />
 
 </div>
 <hr>
