@@ -39,7 +39,9 @@ Currently, I'm focused on developing scalable applications, contributing to open
 - 🌍 Open Source
 
 ---
-# ⚡ Tech Stack
+<h1 align="center">
+⚡ Tech Stack
+</h1>
 
 <div align="center">
 
@@ -168,7 +170,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <h1 align="center">
 💻 Coding Profile
-</h2>
+</h1>
 
 <div align="center">
 
