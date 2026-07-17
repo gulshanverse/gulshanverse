@@ -120,7 +120,9 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 </div>
 ---
-# 📈 Contribution Progress
+<h1 align="center">
+📈 Contribution Progress
+</h1>
 
 <div align="center">
 
