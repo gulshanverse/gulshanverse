@@ -156,6 +156,16 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </div>
 <hr>
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy-2tf5qwc2-gulshanverse.vercel.app/?username=gulshanverse&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
+/>
+
+</div>
+
 <h1 align="center">
 💻 Coding Profile
 </h2>
