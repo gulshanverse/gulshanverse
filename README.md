@@ -108,15 +108,27 @@ Learn → Build → Test → Improve → Deploy → Repeat
 ---
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
-</p>
+<a href="https://github.com/gulshanverse">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+</a>
 
+<a href="https://github.com/gulshanverse">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
+
+---
 ---
 
 # 📈 Contribution Graph
