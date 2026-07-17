@@ -15,44 +15,52 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 <table>
 <tr>
 
-<td width="58%">
+<td width="42%">
 
 ```cpp
 class Gulshan {
 
 public:
 
- string role = "AI Engineer";
+    string education = "B.Tech IT";
 
- string building = "Rail Yatra";
+    string mission =
+        "Build software used by millions.";
 
- string learning = "System Design";
+    string currentProject =
+        "Rail Yatra Platform";
+
+    string dream =
+        "Software Engineer";
 
 };
 ```
 
-Building AI-powered applications and scalable software with a focus on solving real-world problems.
-
-Currently exploring modern backend architecture, machine learning, and full-stack development while strengthening problem-solving through DSA.
-
 </td>
 
-<td width="42%">
+<td width="58%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+Instead of collecting projects, I enjoy building products that solve
+real problems.
+
+My current focus is developing **Rail Yatra**, an AI-powered railway
+assistant designed to make train travel smarter through prediction,
+automation, and intelligent recommendations.
+
+Beyond development, I'm strengthening my foundation in **Data Structures & Algorithms**, **Backend Engineering**, and **System Design** to build scalable software and prepare for software engineering roles.
+
+I believe the best way to learn is to build, ship, improve, and repeat.
 
 </td>
 
 </tr>
 </table>
 
----
 
 ## ⚡ Current Status
 
