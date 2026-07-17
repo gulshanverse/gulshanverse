@@ -122,43 +122,44 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </div>
 ---
 # 💻 Coding Profiles
+<hr>
+
+# 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/gulshanverse">
-
-<img src="https://leetcard.jacoblin.cool/gulshanverse_lc?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
-
+<a href="https://leetcode.com/u/gulshanverse_lc/">
+<img src="https://leetcard.jacoblin.cool/gulshanverse_lc?theme=dark&font=JetBrains+Mono&ext=heatmap" width="72%"/>
 </a>
 
 <br><br>
 
-<a href="https://www.hackerrank.com/gulshanverse">
-
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
+<a href="https://leetcode.com/u/gulshanverse_lc/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/gulshanverse">
-
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" alt="HackerRank"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/gulshanverse">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://github.com/gulshanverse" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://gulshanverse.vercel.app">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
-
+<a href="https://gulshanverse.vercel.app/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio"/>
 </a>
 
 </div>
----
+
 <hr>
 
 <h2 align="center">
