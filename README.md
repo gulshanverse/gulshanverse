@@ -119,19 +119,8 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
----
-<h1 align="center">
-📈 Contribution Progress
-</h1>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulshanverse&theme=tokyonight"/>
-
-</div>
 
 ---
-
 # 🏆 GitHub Achievements
 
 <div align="center">
