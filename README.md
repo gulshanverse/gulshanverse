@@ -92,11 +92,15 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 <br><br>
 
-<!-- Stats + Languages -->
-<img width="48.5%" src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+<p align="center">
 
-<img width="48.5%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="190em"
+src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="190em"
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 </div>
 
 <hr>
