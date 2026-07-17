@@ -112,6 +112,14 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </div>
 
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+---
 
 # 🏆 GitHub Achievements
 
@@ -120,7 +128,8 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
----<h1 align="center">
+---
+<h1 align="center">
 💻 Coding Profiles
 </h2>
 
