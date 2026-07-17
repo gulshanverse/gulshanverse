@@ -86,6 +86,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 </tr>
 
 </table>
+<br>
 ---
 
 # 📊 GitHub Analytics
