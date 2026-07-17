@@ -122,9 +122,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </div>
 ---
 # 💻 Coding Profiles
-<hr>
-
-# 💻 Coding Profiles
 
 <div align="center">
 
