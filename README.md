@@ -1,149 +1,135 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Gulshan%20Kumar&fontSize=62&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Full%20Stack%20Builder&descSize=22&descAlignY=60&color=0:050505,25:101010,55:1A1A1A,75:B8860B,100:FFD700"/>
-
-</div>
-
-<div align="center">
-
-# ✨ Building Intelligent Software That Creates Real Impact
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Software+Engineering;Full+Stack+Development;Machine+Learning;Open+Source+Contributor;Always+Learning+Always+Building"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:111827,55:1E3A8A,75:06B6D4,100:000000&text=Gulshan%20Kumar&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=gulshanverse&style=for-the-badge&color=FFD700"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&center=true&vCenter=true&width=850&color=22D3EE&lines=Building+Software+That+Solves+Real+Problems;Artificial+Intelligence+%7C+Machine+Learning;Full+Stack+Engineering;Always+Learning.+Always+Building."/>
 
-<img src="https://img.shields.io/github/followers/gulshanverse?style=for-the-badge&color=FFD700&labelColor=111111"/>
+<br><br>
 
-<img src="https://img.shields.io/github/stars/gulshanverse?affiliations=OWNER&style=for-the-badge&color=FFD700&labelColor=111111"/>
+<a href="https://github.com/gulshanverse">
+<img src="https://img.shields.io/github/followers/gulshanverse?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/gulshanverse">
+<img src="https://img.shields.io/github/stars/gulshanverse?style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=gulshanverse&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-### Hello, I'm **Gulshan Kumar** 👋
+```cpp
+class GulshanKumar {
 
-I am an **Information Technology undergraduate** passionate about transforming ideas into scalable software products through **Artificial Intelligence**, **Machine Learning**, and **Full Stack Engineering**.
+public:
 
-I enjoy designing systems that solve real-world problems, writing clean and maintainable code, and continuously improving my engineering skills through hands-on projects and open-source contributions.
+    string role =
+        "AI & Software Engineer";
 
-My goal is to build products that are not only technically sound but also deliver meaningful value to users.
+    string education =
+        "B.Tech Information Technology";
 
----
+    vector<string> interests = {
 
-## 🚀 Current Focus
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Engineering",
+        "System Design",
+        "Open Source"
 
-<table>
+    };
 
-<tr>
-<td width="50%">
+    string currentlyBuilding =
+        "Rail Yatra Platform";
 
-### 🤖 Artificial Intelligence
+    string currentlyLearning =
+        "DSA • Backend • AI Systems";
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Intelligent Systems
+};
+```
 
-</td>
+I enjoy building software that solves practical problems rather than demo projects.
 
-<td width="50%">
-
-### 💻 Software Engineering
-
-- Full Stack Development
-- Backend Engineering
-- REST APIs
-- Scalable Architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 📚 Learning
-
-- Data Structures & Algorithms
-- System Design
-- Cloud Computing
-- DevOps Fundamentals
-
-</td>
-
-<td>
-
-### 🌍 Interests
-
-- Open Source
-- Startup Products
-- Problem Solving
-- Building Useful Software
-
-</td>
-
-</tr>
-
-</table>
+My current work focuses on **AI-powered applications**, scalable backend systems, and modern web technologies. I believe in writing clean, maintainable code and continuously improving through real-world projects.
 
 ---
 
-# 💎 Engineering Philosophy
+# Current Focus
+
+<div align="center">
+
+| 🚀 Building | 📚 Learning | 🎯 Goal |
+|:-----------:|:-----------:|:------:|
+| Rail Yatra Platform | DSA & System Design | Software Engineering Internship |
+
+</div>
+
+---
+
+# Technical Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+<br><br>
+
+### Artificial Intelligence
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+<br><br>
+
+### Dev Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel"/>
+
+</div>
+
+---
+
+# Engineering Philosophy
 
 <div align="center">
 
 ```text
-Think Deeply
-
-        ↓
-
-Design Cleanly
-
-        ↓
-
-Build Reliably
-
-        ↓
-
-Learn Continuously
-
-        ↓
-
-Deliver Value
+Think → Design → Build → Test → Deploy → Improve
 ```
 
-</div>
-
----
-
-# ⚡ Quick Snapshot
-
-<div align="center">
-
-| 🚀 | Information |
-|:--:|-------------|
-| 🎓 | B.Tech Information Technology |
-| 🤖 | AI & Machine Learning Enthusiast |
-| 💻 | Full Stack Developer |
-| 🌱 | Learning System Design & Cloud |
-| ❤️ | Building Real-World Products |
-| 🌍 | Open Source Contributor |
-| 🎯 | Aspiring Software Engineer |
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 "Great software is built by solving meaningful problems, one thoughtful decision at a time."
+*"Good software isn't measured by lines of code,
+it's measured by problems solved."*
 
 </div>
 
