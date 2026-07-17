@@ -1,102 +1,101 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:111827,55:1E3A8A,75:06B6D4,100:000000&text=Gulshan%20Kumar&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,20:111827,55:2563EB,80:06B6D4,100:000000&text=Gulshan%20Kumar&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&duration=2500&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Engineer;Software+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;Building+Rail+Yatra+🚆;Always+Learning..."/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&center=true&vCenter=true&width=850&color=22D3EE&lines=Building+Software+That+Solves+Real+Problems;Artificial+Intelligence+%7C+Machine+Learning;Full+Stack+Engineering;Always+Learning.+Always+Building."/>
+<img src="https://komarev.com/ghpvc/?username=gulshanverse&style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/github/followers/gulshanverse?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=gulshanverse&style=for-the-badge&label=PROFILE+VIEWS"/>
-<a href="https://github.com/gulshanverse">
-<img src="https://img.shields.io/github/followers/gulshanverse?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://github.com/gulshanverse">
-<img src="https://img.shields.io/github/stars/gulshanverse?style=for-the-badge&logo=github&label=Stars"/>
-</a>
-
+<img src="https://img.shields.io/github/stars/gulshanverse?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# About
+## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
+
+<td width="58%">
 
 ```cpp
-class GulshanKumar {
+class Gulshan {
 
 public:
 
-    string role =
-        "AI & Software Engineer";
+ string role = "AI Engineer";
 
-    string education =
-        "B.Tech Information Technology";
+ string building = "Rail Yatra";
 
-    vector<string> interests = {
-
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Backend Engineering",
-        "System Design",
-        "Open Source"
-
-    };
-
-    string currentlyBuilding =
-        "Rail Yatra Platform";
-
-    string currentlyLearning =
-        "DSA • Backend • AI Systems";
+ string learning = "System Design";
 
 };
 ```
 
-I enjoy building software that solves practical problems rather than demo projects.
+Building AI-powered applications and scalable software with a focus on solving real-world problems.
 
-My current work focuses on **AI-powered applications**, scalable backend systems, and modern web technologies. I believe in writing clean, maintainable code and continuously improving through real-world projects.
+Currently exploring modern backend architecture, machine learning, and full-stack development while strengthening problem-solving through DSA.
+
+</td>
+
+<td width="42%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Current Focus
-
-<div align="center">
+## ⚡ Current Status
 
 | 🚀 Building | 📚 Learning | 🎯 Goal |
-|:-----------:|:-----------:|:------:|
-| Rail Yatra Platform | DSA & System Design | Software Engineering Internship |
-
-</div>
+|:-----------:|:-----------:|:-------:|
+| Rail Yatra Platform | DSA • System Design | Software Engineering Internship |
 
 ---
 
-# Technical Arsenal
+## 🛠 Technical Stack
 
-<div align="center">
+<table>
 
-### Languages
+<tr>
+<td width="25%"><b>💻 Languages</b></td>
+<td>
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
 
-<br><br>
+</td>
+</tr>
 
-### Frontend
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
 
-<br><br>
+</td>
+</tr>
 
-### Backend
+<tr>
+<td><b>⚙ Backend</b></td>
+<td>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-<br><br>
+</td>
+</tr>
 
-### Artificial Intelligence
+<tr>
+<td><b>🤖 AI / ML</b></td>
+<td>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
@@ -104,34 +103,28 @@ My current work focuses on **AI-powered applications**, scalable backend systems
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
 
-<br><br>
+</td>
+</tr>
 
-### Database
+<tr>
+<td><b>🗄 Database</b></td>
+<td>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-<br><br>
+</td>
+</tr>
 
-### Dev Tools
+<tr>
+<td><b>🛠 Dev Tools</b></td>
+<td>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel"/>
 
-</div>
+</td>
+</tr>
 
----
-
-# Engineering Philosophy
-
-<div align="center">
-
-```text
-Think → Design → Build → Test → Deploy → Improve
-```
-
-*"Good software isn't measured by lines of code,
-it's measured by problems solved."*
-
-</div>
+</table>
 
 ---
 
