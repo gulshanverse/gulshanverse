@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,20:111827,55:2563EB,80:06B6D4,100:000000&text=Gulshan%20Kumar&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&duration=2500&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Engineer;Software+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;Building+Rail+Yatra+🚆;Always+Learning..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Explorer;Building+Rail+Yatra+🚆;Developing+Full+Stack+Applications;Exploring+Backend+Architecture;Learning+System+Design;Sharpening+DSA+Skills;Open+Source+Learner;Transforming+Ideas+Into+Products;One+Commit+Closer+Every+Day;Welcome+to+GulshanVerse+⚡"/>
 
 <br>
 
