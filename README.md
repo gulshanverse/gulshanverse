@@ -120,6 +120,15 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 </div>
 ---
+# 📈 Contribution Progress
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulshanverse&theme=tokyonight"/>
+
+</div>
+
+---
 
 # 🏆 GitHub Achievements
 
