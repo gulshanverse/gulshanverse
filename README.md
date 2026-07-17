@@ -172,8 +172,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </div>
 
 <hr>
----
-<hr>
 
 <h2 align="center">
 🤝 Let's Connect
