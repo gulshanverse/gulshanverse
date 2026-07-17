@@ -15,66 +15,28 @@
 </div>
 
 ---
-## <img src="https://img.icons8.com/fluency/30/user-male-circle.png"/> About Me
+## 👨‍💻 About Me
 
-<table>
-<tr>
+> **Building products, not just projects.**
 
-<td width="60%" valign="top">
+I'm **Gulshan Kumar**, a **B.Tech Information Technology** student who enjoys turning ideas into practical software.
 
-### 👋 Hi, I'm **Gulshan Kumar**
+My current work revolves around **AI-powered applications**, **full-stack development**, and **backend engineering**, with a strong focus on building solutions that solve real-world problems.
 
-🎓 **B.Tech Information Technology** student passionate about creating software that solves **real-world problems**.
+### 🚆 Currently Building
 
-Currently building **🚆 Rail Yatra**, an AI-powered railway platform that combines **Artificial Intelligence**, **Machine Learning**, and **Full Stack Engineering** to make train travel smarter and more accessible.
+- **Rail Yatra** — AI-powered railway assistant for smarter travel experiences.
 
-My interests extend beyond writing code—I enjoy designing **scalable backend systems**, exploring **system architecture**, and continuously improving my problem-solving skills through **Data Structures & Algorithms**.
+### 📚 Currently Learning
 
-I believe great software is built by combining **curiosity**, **consistency**, and **continuous learning**.
+- Data Structures & Algorithms
+- Backend Engineering
+- System Design
+- Cloud Fundamentals
 
-<br>
+### 🎯 Goal
 
-### 🔥 Highlights
-
-- 🚆 Building **Rail Yatra Platform**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- ⚡ Developing **Modern Full Stack Applications**
-- 🧠 Learning **System Design & Scalable Backend**
-- 💻 Solving **Data Structures & Algorithms**
-- 🌍 Open Source Enthusiast
-- 🎯 Aspiring Software Engineer
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile.png" width="260" style="border-radius:20px;" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI-Explorer-00C2FF?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Backend-Learner-4CAF50?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-FF9800?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ⚡ Current Status
-
-| 🚀 Building | 📚 Learning | 🎯 Goal |
-|:-----------:|:-----------:|:-------:|
-| Rail Yatra Platform | DSA • System Design | Software Engineering Internship |
-
+To become a Software Engineer who builds scalable, impactful products while continuously learning and contributing to the developer community.
 ---
 
 ## 🛠 Technical Stack
