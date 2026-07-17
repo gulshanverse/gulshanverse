@@ -121,7 +121,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 </div>
 ---
-<hr>
 # 💻 Coding Profiles
 
 <div align="center">
@@ -132,12 +131,12 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <br><br>
 
-<a href="https://leetcode.com/u/gulshanverse_lc/" target="_blank">
+<a href="https://leetcode.com/u/gulshanverse/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+<a href="https://www.hackerrank.com/gulshnaverse" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" alt="HackerRank"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -184,16 +183,16 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://gulshanverse.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="52" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=web" height="52" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/gulshanverse_lc/" target="_blank">
+<a href="https://leetcode.com/u/gulshanverse/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="52" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+<a href="https://www.hackerrank.com/gulshanverse" target="_blank">
   <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="52" alt="HackerRank"/>
 </a>
 </p>
