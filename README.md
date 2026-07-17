@@ -159,15 +159,19 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 </div>
 ---
+<hr>
 
-# 💬 Quote
+<h2 align="center">
+💭 Quote of the Day
+</h2>
 
 <div align="center">
 
-> **"Build projects that solve problems. The code will speak for itself."**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
+<hr>
 ---
 <hr>
 
