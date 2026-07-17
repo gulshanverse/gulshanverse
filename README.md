@@ -120,8 +120,9 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
----
-# 💻 Coding Profiles
+---<h1 align="center">
+💻 Coding Profiles
+</h2>
 
 <div align="center">
 
