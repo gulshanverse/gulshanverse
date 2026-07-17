@@ -169,49 +169,66 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </div>
 
 ---
-# 🤝 Let's Connect
+<hr>
+
+<h2 align="center">
+🤝 Let's Connect
+</h2>
 
 <p align="center">
-
-<a href="mailto:gulshankumaritggv@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<a href="mailto:gulshankumaritggv@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="52" alt="Gmail"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/gulshanverse">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<a href="https://github.com/gulshanverse" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="52" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://gulshanverse.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+<a href="https://gulshanverse.vercel.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="52" alt="Portfolio"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/gulshanverse_lc/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="55"/>
+<a href="https://leetcode.com/u/gulshanverse_lc/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="52" alt="LeetCode"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="55"/>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="52" alt="HackerRank"/>
 </a>
-
 </p>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-If you found my projects interesting, consider giving them a ⭐.
-
-Let's connect, collaborate, and build impactful software together.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,20:0f0c29,40:302b63,70:00F7FF,100:000000"/>
+<p align="center">
+<b>📬 Feel free to reach out for collaborations, internships, open-source contributions, or just to connect.</b>
+</p>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+I'm always excited to collaborate, learn, and build impactful software.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,25:111827,55:2563EB,80:06B6D4,100:000000"/>
 
 </div>
 
