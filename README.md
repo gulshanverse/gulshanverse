@@ -101,7 +101,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&s
 src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-</div>
 
 <hr>
 
@@ -121,16 +120,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=gulshanverse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 ---
