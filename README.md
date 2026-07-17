@@ -77,10 +77,10 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 <hr>
 
-# 📊 GitHub Analytics
+---
 
 <h2 align="left">
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="34" />
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" />
   GitHub Analytics
 </h2>
 
