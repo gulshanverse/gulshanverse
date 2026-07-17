@@ -38,80 +38,64 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 ---
 # 🛠 Tech Stack
-<table align="center">
 
+<table align="center">
 <tr>
 <td><b>💻 Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/></td>
 </tr>
 
 <tr>
 <td><b>🎨 Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/></td>
 </tr>
 
 <tr>
-<td><b>⚙ Backend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</td>
+<td><b>⚙️ Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express"/></td>
 </tr>
 
 <tr>
 <td><b>🤖 AI / ML</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/><br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td><b>🗄 Database</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</td>
+<td><b>🗄️ Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
 </tr>
 
 <tr>
-<td><b>🛠 Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,vercel"/>
-</td>
+<td><b>🛠️ Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,vercel"/></td>
 </tr>
-
 </table>
-<br>
----
+
+<hr>
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/gulshanverse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-<a href="https://github.com/gulshanverse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
+<br><br>
 
-<br>
+<img width="75%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+<br><br>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </div>
 
----
+<hr>
 ---
 
 # 📈 Contribution Graph
