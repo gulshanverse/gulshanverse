@@ -219,7 +219,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="58"/>
 </a>
 
-<a href="https://www.hackerrank.com/gulshnaverse" style="text-decoration:none;">
+<a href="https://www.hackerrank.com/gulshanverse" style="text-decoration:none;">
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="58"/>
 </a>
 
