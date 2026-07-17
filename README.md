@@ -15,90 +15,145 @@
 </div>
 
 ---
-## 👨‍💻 About Me
+<div align="center">
 
-> **Building products, not just projects.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,15:0f0c29,35:302b63,55:24243e,75:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=68&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Problem%20Solver&descAlignY=60&descAlign=50"/>
 
-I'm **Gulshan Kumar**, a **B.Tech Information Technology** student who enjoys turning ideas into practical software.
+<br>
 
-My current work revolves around **AI-powered applications**, **full-stack development**, and **backend engineering**, with a strong focus on building solutions that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;WELCOME+TO+GULSHANVERSE;BUILDING+AI+POWERED+SOLUTIONS;FULL+STACK+DEVELOPER;DATA+STRUCTURES+%26+ALGORITHMS;OPEN+SOURCE+ENTHUSIAST;CONSISTENCY+BEATS+TALENT+⚡"/>
 
-### 🚆 Currently Building
+<br><br>
 
-- **Rail Yatra** — AI-powered railway assistant for smarter travel experiences.
+<img src="https://komarev.com/ghpvc/?username=gulshanverse&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF"/>
 
-### 📚 Currently Learning
+<img src="https://img.shields.io/github/followers/gulshanverse?style=for-the-badge&color=blueviolet&labelColor=000000"/>
 
-- Data Structures & Algorithms
-- Backend Engineering
-- System Design
-- Cloud Fundamentals
+<img src="https://img.shields.io/github/stars/gulshanverse?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=000000"/>
 
-### 🎯 Goal
+</div>
 
-To become a Software Engineer who builds scalable, impactful products while continuously learning and contributing to the developer community.
 ---
 
-## 🛠 Technical Stack
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Hello World!
+
+```cpp
+#include<iostream>
+using namespace std;
+
+class Developer
+{
+public:
+
+    string name = "Gulshan Kumar";
+
+    string role = "B.Tech Information Technology Student";
+
+    string location = "India 🇮🇳";
+
+    string passion = "Artificial Intelligence & Software Engineering";
+
+    string currentMission =
+        "Learning DSA • Building AI Projects • Open Source";
+
+    void sayHi()
+    {
+        cout<<"Welcome to my GitHub Profile!";
+    }
+};
+
+int main()
+{
+    Developer me;
+
+    me.sayHi();
+
+    return 0;
+}
+```
+
+---
+
+# 🌌 ABOUT ME
+
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+### 👨‍💻 Who Am I?
+
+🚀 B.Tech Information Technology Student
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+💻 Full Stack Development Enthusiast
+
+📚 Currently mastering Data Structures & Algorithms
+
+🌱 Learning every single day
+
+⚡ Building impactful software projects
+
+🎯 Goal: Become a world-class Software Engineer
+
+---
+
+### 🧠 Current Focus
+
+✔ AI & Machine Learning
+
+✔ Full Stack Development
+
+✔ DSA
+
+✔ Open Source
+
+✔ System Design
+
+✔ Backend Engineering
+
+✔ Cloud Technologies
+
+---
+
+### 💡 Philosophy
+
+> **"Dream Big. Start Small. Build Daily."**
+
+---
+
+# ⚡ QUICK FACTS
 
 <table>
 
 <tr>
-<td width="25%"><b>💻 Languages</b></td>
-<td>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
+<td width="50%">
 
-</td>
-</tr>
+🏫 B.Tech IT Student
 
-<tr>
-<td><b>🎨 Frontend</b></td>
-<td>
+🤖 AI/ML Explorer
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+💻 Future Software Engineer
 
-</td>
-</tr>
+🚀 Open Source Learner
 
-<tr>
-<td><b>⚙ Backend</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+📚 DSA Enthusiast
 
 </td>
-</tr>
 
-<tr>
-<td><b>🤖 AI / ML</b></td>
-<td>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+🔥 Loves solving problems
 
-<br>
+🌍 Always learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
+⚙ Building scalable projects
 
-</td>
-</tr>
+🧠 Curious about new technologies
 
-<tr>
-<td><b>🗄 Database</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+☕ Coffee + Code = Productivity
 
 </td>
-</tr>
 
-<tr>
-<td><b>🛠 Dev Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel"/>
-
-</td>
 </tr>
 
 </table>
