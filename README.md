@@ -15,7 +15,7 @@
 </p>
 
 </div>
----
+<hr>
 
 # 👋 About Me
 
