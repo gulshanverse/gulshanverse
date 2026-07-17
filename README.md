@@ -119,6 +119,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
+<hr>
 
 <h1 align="center">
 💻 Coding Profiles
