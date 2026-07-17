@@ -77,7 +77,6 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 <hr>
 
----
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -104,7 +103,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <hr>
 
----
 # 📈 Contribution Summary
 
 <div align="center">
