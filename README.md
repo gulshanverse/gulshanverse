@@ -8,6 +8,7 @@
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=gulshanverse&style=for-the-badge&label=PROFILE+VIEWS"/>
 <a href="https://github.com/gulshanverse">
 <img src="https://img.shields.io/github/followers/gulshanverse?style=for-the-badge&logo=github&label=Followers"/>
 </a>
@@ -16,7 +17,6 @@
 <img src="https://img.shields.io/github/stars/gulshanverse?style=for-the-badge&logo=github&label=Stars"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=gulshanverse&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
