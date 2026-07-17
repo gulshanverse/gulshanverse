@@ -170,7 +170,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://gulshanverse.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=web" height="52" alt="Portfolio"/>
+  <img src="https://img.icons8.com/fluency/96/internet.png" height="52" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
