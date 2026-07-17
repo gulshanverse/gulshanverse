@@ -207,7 +207,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://skillicons.dev/icons?i=github" height="58"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME" style="text-decoration:none;">
+<a href="https://linkedin.com/in/gulshanverse" style="text-decoration:none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="58"/>
 </a>
 
@@ -215,11 +215,11 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <img src="https://img.icons8.com/fluency/96/domain.png" height="58"/>
 </a>
 
-<a href="https://leetcode.com/u/gulshanverse_lc/" style="text-decoration:none;">
+<a href="https://leetcode.com/u/gulshanverse/" style="text-decoration:none;">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="58"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME" style="text-decoration:none;">
+<a href="https://www.hackerrank.com/gulshnaverse" style="text-decoration:none;">
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="58"/>
 </a>
 
