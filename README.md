@@ -10,6 +10,8 @@
 
 </div>
 
+<br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Explorer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 
 <br>
