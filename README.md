@@ -166,6 +166,7 @@ alt="GitHub Trophies"
 />
 
 </div>
+---
 
 <h1 align="center">
 💻 Coding Profile
