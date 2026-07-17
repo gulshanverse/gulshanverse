@@ -37,6 +37,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 - 🌍 Open Source
 
 ---
+<div>
 # 🛠 Tech Stack
 
 <table align="center">
@@ -87,6 +88,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 </tr>
 
 </table>
+<div>
 ---
 # 📊 GitHub Analytics
 
