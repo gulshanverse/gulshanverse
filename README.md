@@ -79,21 +79,30 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<h2 align="left">
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="34" />
+  GitHub Analytics
+</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<br><br>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+<p align="center">
 
 <img width="75%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=12"/>
+<p align="center">
 
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</p>
 
 <hr>
 ---
