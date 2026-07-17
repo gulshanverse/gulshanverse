@@ -37,41 +37,24 @@ Currently, I'm focused on developing scalable applications, contributing to open
 - 🌍 Open Source
 
 ---
-# 🛠 Tech Stack
+Languages
+[C++] [C] [Python] [JS]
 
-<div align="center">
+Frontend
+[React] [Next] [HTML] [CSS] [Tailwind]
 
-<b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
+Backend
+[Node] [Express]
 
-<br>
+AI / ML
+[TensorFlow] [PyTorch]
+[NumPy] [Pandas]
 
-<b>Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+Database
+[MongoDB] [MySQL]
 
-<br>
-
-<b>Backend</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-<br>
-
-<b>AI / Machine Learning</b><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<br>
-
-<b>Database</b><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-<br>
-
-<b>Tools & Platforms</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,vercel"/>
-
-</div>
+Tools
+[Git] [Docker] [VS Code] [Linux] ...
 
 ---
 # 📊 GitHub Analytics
