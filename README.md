@@ -85,27 +85,6 @@ Currently, I'm focused on developing scalable applications, contributing to open
 </div>
 
 ---
-
-# 📌 What I'm Working On
-
-| Project | Description |
-|---------|-------------|
-| 🚆 Rail Yatra Platform | AI-powered railway assistant with smart travel recommendations |
-| 🏥 Hospital Management System | Full Stack healthcare platform with secure authentication |
-| 🤖 Verilex AI | AI-powered document verification system |
-| 🌐 Portfolio Website | Personal portfolio showcasing projects and technical journey |
-
----
-
-# 💡 What Drives Me
-
-```text
-Learn → Build → Test → Improve → Deploy → Repeat
-```
-
-> *"Consistency beats intensity. Small improvements every day lead to extraordinary results."*
-
----
 # 📊 GitHub Analytics
 
 <div align="center">
