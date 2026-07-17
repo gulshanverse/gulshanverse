@@ -78,42 +78,28 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <hr>
 
 ---
+# 📊 GitHub Analytics
 
-<h2 align="left">
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" />
-  GitHub Analytics
-</h2>
+<div align="center">
 
-<p align="center">
+<!-- Streak -->
+<img width="78%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<!-- Contribution Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16"/>
+
+<br><br>
+
+<!-- Stats + Languages -->
 <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</p>
-
-<p align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</p>
+</div>
 
 <hr>
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 # 📈 Contribution Summary
