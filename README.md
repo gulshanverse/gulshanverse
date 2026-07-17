@@ -37,45 +37,80 @@ Currently, I'm focused on developing scalable applications, contributing to open
 - 🌍 Open Source
 
 ---
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-<table align="center">
+<div align="center">
+
+<table>
+
 <tr>
 <td><b>💻 Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript"/>
+
+</td>
 </tr>
 
 <tr>
 <td><b>🎨 Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+</td>
 </tr>
 
 <tr>
 <td><b>⚙️ Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express"/></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi"/>
+
+</td>
 </tr>
 
 <tr>
-<td><b>🤖 AI / ML</b></td>
+<td><b>🧠 AI / ML</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
 </td>
 </tr>
 
 <tr>
 <td><b>🗄️ Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>☁️ DevOps</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel"/>
+
+</td>
 </tr>
 
 <tr>
 <td><b>🛠️ Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,vercel"/></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
+</td>
 </tr>
+
 </table>
 
-<hr>
+</div>
+
+---
 
 # 📊 GitHub Analytics
 
