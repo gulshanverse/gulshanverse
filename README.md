@@ -1,253 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Explorer%20%7C%20DSA%20Learner%20%7C%20Future%20Software%20Engineer&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Gulshan%20Kumar&fontSize=62&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Full%20Stack%20Builder&descSize=22&descAlignY=60&color=0:050505,25:101010,55:1A1A1A,75:B8860B,100:FFD700"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;WELCOME+TO+GULSHANVERSE;BUILDING+THE+FUTURE+WITH+CODE;AI+%2B+DSA+%2B+INNOVATION;CONSISTENCY+IS+POWER+⚡"/>
+</div>
+
+<div align="center">
+
+# ✨ Building Intelligent Software That Creates Real Impact
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Software+Engineering;Full+Stack+Development;Machine+Learning;Open+Source+Contributor;Always+Learning+Always+Building"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=gulshanverse&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=gulshanverse&style=for-the-badge&color=FFD700"/>
+
+<img src="https://img.shields.io/github/followers/gulshanverse?style=for-the-badge&color=FFD700&labelColor=111111"/>
+
+<img src="https://img.shields.io/github/stars/gulshanverse?affiliations=OWNER&style=for-the-badge&color=FFD700&labelColor=111111"/>
 
 </div>
 
 ---
 
-<div align="center">
-<div align="center">
+# 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=C%2B%2B+Developer;Python+Programmer;AI+%26+ML+Explorer;Docker+Learner;NumPy+%7C+Pandas+%7C+TensorFlow;Future+Software+Engineer"/>
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br><br>
+### Hello, I'm **Gulshan Kumar** 👋
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pytorch,tensorflow,docker,git,github,vscode,linux,bash"/>
+I am an **Information Technology undergraduate** passionate about transforming ideas into scalable software products through **Artificial Intelligence**, **Machine Learning**, and **Full Stack Engineering**.
 
-</div>
+I enjoy designing systems that solve real-world problems, writing clean and maintainable code, and continuously improving my engineering skills through hands-on projects and open-source contributions.
 
-</div>
-
----
-
-# 👾 AI TERMINAL
-
-```yaml
-class Developer:
-
-  name: "Gulshan Kumar"
-
-  role: "BTech IT Student"
-
-  interests:
-    - Artificial Intelligence
-    - Machine Learning
-    - DSA
-    - Software Engineering
-    - Future Technologies
-
-  languages:
-    - C++
-    - Python
-    - C
-
-  current_focus:
-    - DSA
-    - AI/ML
-    - Development
-    - Open Source
-
-  mindset:
-    - Discipline
-    - Consistency
-    - Growth
-```
+My goal is to build products that are not only technically sound but also deliver meaningful value to users.
 
 ---
 
-# ⚔️ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pytorch,tensorflow,docker,git,github,vscode,linux,bash"/>
-
-</div>
-
----
-
-# 🧠 AI & DATA SCIENCE TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A00FF?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🚀 CURRENT MISSION
-
-<div align="center">
-
-```cpp
-while(alive)
-{
-    learn();
-    code();
-    build();
-    innovate();
-    repeat();
-}
-```
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-# 🔥 GITHUB STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-<h1 align="center">🏆 ACHIEVEMENTS</h1>
-
-<div align="center">
+## 🚀 Current Focus
 
 <table>
+
 <tr>
-<td align="center">
+<td width="50%">
 
-<img src="./pair-extraordinaire.png"
-     width="180"
-     alt="Pair Extraordinaire"/>
+### 🤖 Artificial Intelligence
 
-<br><br>
-
-<b>Pair Extraordinaire</b>
-
-<br>
-
-Successfully co-authored commits with another developer.
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Intelligent Systems
 
 </td>
+
+<td width="50%">
+
+### 💻 Software Engineering
+
+- Full Stack Development
+- Backend Engineering
+- REST APIs
+- Scalable Architecture
+
+</td>
+
 </tr>
+
+<tr>
+
+<td>
+
+### 📚 Learning
+
+- Data Structures & Algorithms
+- System Design
+- Cloud Computing
+- DevOps Fundamentals
+
+</td>
+
+<td>
+
+### 🌍 Interests
+
+- Open Source
+- Startup Products
+- Problem Solving
+- Building Useful Software
+
+</td>
+
+</tr>
+
 </table>
 
-</div>
-
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-# ⚡ DEVELOPMENT METRICS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulshanverse&theme=tokyonight"/>
-
-</div>
-
----
-
-# 💻 LANGUAGE BREAKDOWN
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshanverse&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulshanverse&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🧠 RANDOM DEV QUOTE
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌌 CYBERPUNK CODER VISION
+# 💎 Engineering Philosophy
 
 <div align="center">
 
 ```text
-Start today.
-Build consistently.
-Master technology.
-Create the future.
+Think Deeply
+
+        ↓
+
+Design Cleanly
+
+        ↓
+
+Build Reliably
+
+        ↓
+
+Learn Continuously
+
+        ↓
+
+Deliver Value
 ```
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+# ⚡ Quick Snapshot
 
 <div align="center">
 
-<a href="https://leetcode.com/gulshanverse_lc">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="60" />
-</a>
-
-<a href="https://github.com/gulshanverse">
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
-</a>
-
-<a href="https://gulshanverse.vercel.app">
-  <img src="https://img.icons8.com/fluency/96/domain.png" height="60" />
-</a>
-
-<a href="https://linkedin.com/in/gulshanverse">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
-</a>
-
-<a href="https://www.hackerrank.com/gulshanverse">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="60" />
-</a>
+| 🚀 | Information |
+|:--:|-------------|
+| 🎓 | B.Tech Information Technology |
+| 🤖 | AI & Machine Learning Enthusiast |
+| 💻 | Full Stack Developer |
+| 🌱 | Learning System Design & Cloud |
+| ❤️ | Building Real-World Products |
+| 🌍 | Open Source Contributor |
+| 🎯 | Aspiring Software Engineer |
 
 </div>
 
@@ -255,10 +143,11 @@ Create the future.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F7FF,40:302b63,70:0f0c29,100:000000"/>
+## 🌟 "Great software is built by solving meaningful problems, one thoughtful decision at a time."
 
 </div>
 
+---
 
 
 
