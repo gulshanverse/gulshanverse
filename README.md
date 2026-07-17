@@ -125,7 +125,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <div align="center">
 
-<a href="https://leetcode.com/gulshanverse_lc">
+<a href="https://leetcode.com/gulshanverse">
 
 <img src="https://leetcard.jacoblin.cool/gulshanverse_lc?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
@@ -160,6 +160,16 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </div>
 ---
 
+# 💬 Quote
+
+<div align="center">
+
+> **"Build projects that solve problems. The code will speak for itself."**
+
+</div>
+
+---
+
 # 🤝 Let's Connect
 
 <div align="center">
@@ -189,17 +199,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </a>
 
 </div>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-> **"Build projects that solve problems. The code will speak for itself."**
-
-</div>
-
 ---
 
 <div align="center">
