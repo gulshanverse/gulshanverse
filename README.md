@@ -154,34 +154,31 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 </h2>
 
 <p align="center">
-<a href="mailto:gulshankumaritggv@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="52" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/gulshanverse" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub"/>
+<a href="mailto:gulshankumaritggv@gmail.com" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=gmail" height="58"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="52" alt="LinkedIn"/>
+<a href="https://github.com/gulshanverse" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=github" height="58"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://gulshanverse.vercel.app" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/internet.png" height="52" alt="Portfolio"/>
+<a href="https://linkedin.com/in/YOUR_USERNAME" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=linkedin" height="58"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/gulshanverse/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="52" alt="LeetCode"/>
+<a href="https://gulshanverse.vercel.app" style="text-decoration:none;">
+<img src="https://img.icons8.com/fluency/96/domain.png" height="58"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/gulshanverse" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="52" alt="HackerRank"/>
+<a href="https://leetcode.com/u/gulshanverse_lc/" style="text-decoration:none;">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="58"/>
 </a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME" style="text-decoration:none;">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="58"/>
+</a>
+
 </p>
 
 <br>
