@@ -4,8 +4,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,45:302b63,70:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Software%20Engineering%20%7C%20Full%20Stack%20Development&descAlignY=60"/>
 </a>
 
-<sub><b>Click the banner above to explore my portfolio, featured projects, and engineering journey.</b></sub>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Explorer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 
 <p>
