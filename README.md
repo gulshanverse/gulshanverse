@@ -116,7 +116,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <div align="center">
 
 <!-- Streak -->
-<img width="78%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=gulshanverse&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
