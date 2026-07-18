@@ -130,15 +130,17 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 <br><br>
 
-<p align="center">
+<div align="center">
 
-<img height="190em"
-src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+height="190"
+src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="190em"
-src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+height="190"
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&card_width=320" />
 
-</p>
+</div>
 
 <hr>
 
@@ -147,6 +149,22 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulshanverse&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshanverse&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulshanverse&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gulshanverse&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulshanverse&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
