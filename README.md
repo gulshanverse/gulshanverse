@@ -116,10 +116,11 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-<img
-width="85%"
-src="https://github-readme-streak-stats-eight.vercel.app?user=gulshanverse&theme=tokyonight&hide_border=true&border_radius=15&card_width=1000&stroke=58A6FF&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF"
-/>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=gulshanverse&theme=tokyonight&hide_border=true&border_radius=15&stroke=58A6FF&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF"
+    height="220"
+    alt="GitHub Streak Stats"
+  />
 </a>
 
 </div>
