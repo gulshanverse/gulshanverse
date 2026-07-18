@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,45:302b63,70:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Software%20Engineering%20%7C%20Full%20Stack%20Development&descAlignY=60"/>
 </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Explorer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3400&pause=900&color=00F7FF&center=true&vCenter=true&width=1300&lines=Building+Software+That+Solves+Real+World+Problems;Exploring+Artificial+Intelligence,+Cloud,+and+Modern+Technologies;Engineering+Scalable+Applications+From+Idea+to+Deployment;Passionate+About+Open+Source+and+Continuous+Learning;Writing+Clean,+Maintainable,+and+Reliable+Code;Turning+Curiosity+Into+Innovation;Always+Building.+Always+Improving.;Welcome+to+My+Engineering+Journey"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gulshanverse&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
