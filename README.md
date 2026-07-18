@@ -128,7 +128,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <!-- Contribution Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16"/>
 
-<br><br>
+<br>
 
 <div align="center">
 
