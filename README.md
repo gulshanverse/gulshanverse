@@ -15,17 +15,17 @@
 </div>
 <hr>
 
-# 👋 About Me
+# 👨‍💻About Me
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Gulshan Kumar**, a **B.Tech Information Technology student** passionate about building impactful software with **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
+ I'm **Gulshan Kumar**, a **B.Tech Information Technology student** passionate about building impactful software with **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
 
 I enjoy transforming ideas into real-world products while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
 
 Currently, I'm focused on developing scalable applications, contributing to open-source projects, and preparing for software engineering internships.
 
-### 🚀 Current Focus
+### 🔖 Current Focus
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Full Stack Development
