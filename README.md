@@ -256,7 +256,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <div align="center">
 
-### ⭐Thanks for visiting my profile!
+## ⭐Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐(star) to my repositories.
 
