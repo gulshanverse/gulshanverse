@@ -46,7 +46,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>💻 Languages</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,kotlin,sql"/>
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🎨 Frontend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>⚙️ Backend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,prisma"/>
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🗄️ Database</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,sqlite"/>
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>☁️ DevOps</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,railway"/>
 
 </td>
 </tr>
