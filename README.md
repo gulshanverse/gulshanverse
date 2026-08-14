@@ -30,8 +30,8 @@ Currently, I'm focused on developing scalable applications, contributing to open
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Full Stack Development
 - 📚 Data Structures & Algorithms
-- ☁ Backend Development
-- 🌍 Open Source
+- ☁  App Development
+- 🌍 Open Source Contibution
 
 ---
 <h1 align="center">
