@@ -1,23 +1,23 @@
 <div align="center">
 
 <a href="https://gulshanverse.vercel.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,45:302b63,70:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,45:302b63,70:00F7FF,100:000000&text=Gulshan%20Kumar&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=60" alt="Gulshan Kumar profile banner" />
 </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3400&pause=900&color=00F7FF&center=true&vCenter=true&width=1300&lines=Building+Software+That+Solves+Real+World+Problems;Exploring+Artificial+Intelligence,+Cloud,+and+Modern+Technologies;Engineering+Scalable+Applications+From+Idea+to+Deployment;Passionate+About+Open+Source+and+Continuous+Learning;Writing+Clean,+Maintainable,+and+Reliable+Code;Turning+Curiosity+Into+Innovation;Always+Building.+Always+Improving.;Welcome+to+My+Engineering+Journey"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3400&pause=900&color=00F7FF&center=true&vCenter=true&width=1300&lines=Building+Software+That+Solves+Real+World+Problems;Exploring+Artificial+Intelligence,+Cloud,+and+Modern+Technologies;Engineering+Scalable+Applications+From+Idea+to+Deployment;Passionate+About+Open+Source+and+Continuous+Learning;Writing+Clean,+Maintainable,+and+Reliable+Code;Turning+Curiosity+Into+Innovation;Always+Building.+Always+Improving.;Welcome+to+My+Engineering+Journey" alt="Animated introduction text" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gulshanverse&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/gulshanverse?label=FOLLOWERS&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/gulshanverse?affiliations=OWNER&label=STARS&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=gulshanverse&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/gulshanverse?label=FOLLOWERS&style=for-the-badge" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/gulshanverse?affiliations=OWNER&label=STARS&style=for-the-badge" alt="GitHub stars" />
 </p>
 
 </div>
 <hr>
 
-# 👨‍💻About Me
+# 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
 
  I'm **Gulshan Kumar**, a **B.Tech Information Technology student** passionate about building impactful software with **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
 
@@ -30,8 +30,8 @@ Currently, I'm focused on developing scalable applications, contributing to open
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Full Stack Development
 - 📚 Data Structures & Algorithms
-- ☁  App Development
-- 🌍 Open Source Contibution
+- 📱 App Development
+- 🌍 Open Source Contribution
 
 ---
 <h1 align="center">
@@ -46,7 +46,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>💻 Languages</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,kotlin,sql"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,kotlin,sql" alt="Technology icons" />
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🎨 Frontend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" alt="Technology icons" />
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>⚙️ Backend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,prisma"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,prisma" alt="Technology icons" />
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🧠 AI / ML</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="Technology icons" />
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🗄️ Database</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,sqlite" alt="Technology icons" />
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>☁️ DevOps</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,railway"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,railway" alt="Technology icons" />
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🛠️ Tools</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman" alt="Technology icons" />
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 </div>
 
 <!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16" alt="GitHub contribution activity graph" />
 
 <br>
 
@@ -134,11 +134,11 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 <img
 height="190"
-src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true" />
+src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshanverse&show_icons=true&theme=tokyonight&hide_border=true"  alt="GitHub statistics" />
 
 <img
 height="190"
-src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&card_width=320" />
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshanverse&layout=compact&theme=tokyonight&hide_border=true&card_width=320"  alt="Most used programming languages" />
 
 </div>
 
@@ -148,23 +148,23 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulshanverse&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulshanverse&theme=tokyonight" alt="GitHub contribution profile summary" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshanverse&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshanverse&theme=tokyonight" alt="Repositories by programming language" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulshanverse&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulshanverse&theme=tokyonight" alt="Most committed programming languages" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gulshanverse&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gulshanverse&theme=tokyonight" alt="GitHub profile statistics" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulshanverse&theme=tokyonight&utcOffset=5.5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulshanverse&theme=tokyonight&utcOffset=5.5" alt="Productive coding time summary" />
 
 </div>
 
@@ -193,7 +193,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <div align="center">
 
 <a href="https://leetcode.com/u/gulshanverse/">
-<img src="https://leetcard.jacoblin.cool/gulshanverse?theme=dark&font=JetBrains+Mono&ext=heatmap" width="72%"/>
+<img src="https://leetcard.jacoblin.cool/gulshanverse?theme=dark&font=JetBrains+Mono&ext=heatmap" width="72%" alt="LeetCode activity and skills" />
 </a>
 
 <br><br>
@@ -272,7 +272,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
 
 </div>
 
@@ -285,27 +285,27 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <p align="center">
 
 <a href="mailto:gulshankumaritggv@gmail.com" style="text-decoration:none;">
-<img src="https://skillicons.dev/icons?i=gmail" height="58"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="58" alt="Email" />
 </a>
 
 <a href="https://github.com/gulshanverse" style="text-decoration:none;">
-<img src="https://skillicons.dev/icons?i=github" height="58"/>
+<img src="https://skillicons.dev/icons?i=github" height="58" alt="GitHub" />
 </a>
 
 <a href="https://linkedin.com/in/gulshanverse" style="text-decoration:none;">
-<img src="https://skillicons.dev/icons?i=linkedin" height="58"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="58" alt="LinkedIn" />
 </a>
 
 <a href="https://gulshanverse.vercel.app" style="text-decoration:none;">
-<img src="https://img.icons8.com/fluency/96/domain.png" height="58"/>
+<img src="https://img.icons8.com/fluency/96/domain.png" height="58" alt="Personal website" />
 </a>
 
 <a href="https://leetcode.com/u/gulshanverse/" style="text-decoration:none;">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="58"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="58" alt="LeetCode" />
 </a>
 
 <a href="https://www.hackerrank.com/gulshanverse" style="text-decoration:none;">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="58"/>
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="58" alt="HackerRank" />
 </a>
 
 </p>
@@ -320,11 +320,11 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 
 <div align="center">
 
-## ⭐Thanks for visiting my profile!
+<h2>⭐ Thanks for visiting my profile!</h2>
 
-If you like my work, consider giving a ⭐(star) to my repositories.
+<p>If you like my work, consider giving a ⭐ star to my repositories.</p>
 
-I'm always excited to collaborate, learn, and build impactful software.
+<p>I'm always excited to collaborate, learn, and build impactful software.</p>
 
 </div>
 
@@ -332,7 +332,7 @@ I'm always excited to collaborate, learn, and build impactful software.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,25:111827,55:2563EB,80:06B6D4,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,25:111827,55:2563EB,80:06B6D4,100:000000" alt="Footer banner" />
 
 </div>
 
