@@ -126,7 +126,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 </div>
 
 <!-- Contribution Graph -->
-<img width="100%" src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/activity-graph.svg" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github.com/gulshanverse/gulshanverse/raw/refs/heads/output/activity-graph.svg" alt="GitHub contribution activity graph" />
 
 <br>
 
