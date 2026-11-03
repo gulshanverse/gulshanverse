@@ -17,7 +17,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+<img align="right" width="440" height="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
 
  I'm **Gulshan Kumar**, a **B.Tech Information Technology student** passionate about building impactful software with **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
 
