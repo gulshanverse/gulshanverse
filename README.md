@@ -46,7 +46,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>💻 Languages</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,kotlin,sql" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,kotlin" alt="Technology icons" />
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🧠 AI / ML</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,pandas,numpy" alt="Technology icons" />
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🛠️ Tools</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio,jupyter,githubactions" alt="Technology icons" />
 
 </td>
 </tr>
