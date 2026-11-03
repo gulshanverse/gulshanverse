@@ -100,7 +100,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🛠️ Tools</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio,jupyter,npm" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio,npm" alt="Technology icons" />
 
 </td>
 </tr>
