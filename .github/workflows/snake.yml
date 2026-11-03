@@ -19,6 +19,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Prepare activity graph output
+        run: mkdir -p dist && chmod -R ugo+rwx dist
+
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
