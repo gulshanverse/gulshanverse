@@ -181,7 +181,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 ## 🏆 MY GitHub Trophies
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=gulshanverse&theme=algolia&column=3&row=2&margin-w=18&margin-h=18&no-frame=true&no-bg=true&title=Commits,Stars,Followers,Repositories,PullRequest,Experience" width="95%" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=gulshanverse&theme=algolia&column=3&row=2&margin-w=18&margin-h=18&no-frame=true&no-bg=true&title=Commits,Stars,Followers,Repositories,Issues,PullRequest,Experience" width="95%" alt="GitHub Trophies" />
 
 </div>
 <hr>
