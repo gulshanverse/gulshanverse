@@ -19,6 +19,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: gulshanverse
+          options: theme=tokyo-night&hide_border=true&radius=16
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:

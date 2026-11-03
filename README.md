@@ -100,7 +100,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 <td><b>🛠️ Tools</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio,jupyter,githubactions" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio,jupyter,npm" alt="Technology icons" />
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ Currently, I'm focused on developing scalable applications, contributing to open
 </div>
 
 <!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulshanverse&theme=tokyo-night&hide_border=true&radius=16" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/gulshanverse/gulshanverse/output/activity-graph.svg" alt="GitHub contribution activity graph" />
 
 <br>
 
