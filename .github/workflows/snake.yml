@@ -20,15 +20,18 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Prepare activity graph output
-        run: mkdir -p dist && chmod -R ugo+rwx dist
+        run: sudo rm -f activity-graph.svg
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: gulshanverse
           options: theme=tokyo-night&hide_border=true&radius=16
-          output_path: dist/activity-graph.svg
+          output_path: activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy activity graph into output bundle
+        run: sudo cp activity-graph.svg dist/activity-graph.svg
 
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v3
