@@ -203,6 +203,70 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gul
 <hr>
 
 <h2 align="center">
+🚀 Featured Projects
+</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/gulshanverse/TripMates">TripMates</a></h3>
+<p align="center">An AI-powered travel platform that connects travelers, builds personalized itineraries, and simplifies group trip planning.</p>
+<p align="center"><strong>TypeScript • AI • Travel Tech</strong></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/gulshanverse/rail-yatra-platform">Rail Yatra</a></h3>
+<p align="center">A railway travel intelligence platform for smarter journey decisions, recommendations, optimization, and personalized assistance.</p>
+<p align="center"><strong>Python • AI • Travel Intelligence</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/gulshanverse/vaani-sutra">Vaani Sutra</a></h3>
+<p align="center">A real-time, multilingual AI voice support agent designed for natural customer conversations and intelligent assistance.</p>
+<p align="center"><strong>Python • Gemini • VideoSDK</strong></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/gulshanverse/TrustID-Smart-Identity-Verification-System">TrustID</a></h3>
+<p align="center">An AI-assisted identity and document screening platform for faster, evidence-driven, and auditable verification workflows.</p>
+<p align="center"><strong>Python • AI • Identity Verification</strong></p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/gulshanverse?tab=repositories"><strong>View all projects →</strong></a>
+</p>
+
+<h2 align="center">
+🔭 Currently Working On
+</h2>
+
+<table align="center">
+<tr>
+<th>Focus</th>
+<th>What I'm building and learning</th>
+</tr>
+<tr>
+<td align="center">🤖 <strong>AI Engineering</strong></td>
+<td>Building practical AI products with intelligent recommendations, automation, and conversational experiences</td>
+</tr>
+<tr>
+<td align="center">🌐 <strong>Full-Stack Development</strong></td>
+<td>Designing scalable applications with TypeScript, React, Node.js, and modern cloud platforms</td>
+</tr>
+<tr>
+<td align="center">🧳 <strong>Travel Technology</strong></td>
+<td>Developing travel products that improve planning, discovery, coordination, and decision-making</td>
+</tr>
+<tr>
+<td align="center">📚 <strong>Core Engineering</strong></td>
+<td>Strengthening data structures, algorithms, system design, and clean software architecture</td>
+</tr>
+</table>
+
+<hr>
+
+<h2 align="center">
 💭 Quote of the Day
 </h2>
 
